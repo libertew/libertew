@@ -1,3 +1,6 @@
+
+
+
 $ whoami
 
 
@@ -19,4 +22,9 @@ $ status
 
 
 i love anime,unix and history
+
+$ cat contact
+
+@kuantumcomputer:matrix.org
+
 
