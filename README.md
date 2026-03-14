@@ -1,4 +1,7 @@
 $ whoami
+
+
+
 libertew, utku - Turkey
 
 $ cat stack
@@ -12,5 +15,8 @@ $ cat stack
 
 
 $ status
+
+
+
 i love anime,unix and history
 
